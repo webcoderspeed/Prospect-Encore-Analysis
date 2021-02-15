@@ -81,7 +81,7 @@ def change_password(username):
         elif choice == 3:
             break
         else:
-                print("Invalid Choice...")
+            print("Invalid Choice...")
         os.system("pause")
         
 
@@ -113,7 +113,7 @@ def search_prospect():
         elif choice == 3:
             break
         else:
-                print("Invalid Choice...")
+            print("Invalid Choice...")
         os.system("pause")
 
 def set_account_status():

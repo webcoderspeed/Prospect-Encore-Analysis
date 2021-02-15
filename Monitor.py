@@ -81,8 +81,7 @@ def update_prospect():
         6) Update Date Of Visit
         7) Update Priority
         8) Exit
-        Enter your choice: 
-        """))
+        Enter your choice: """))
 
         if choice == 1:
             update_name()
